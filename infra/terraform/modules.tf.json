@@ -7,12 +7,12 @@
       "create_function_url": true,
       "description": null,
       "environment_variables": {
-        "IMAGES_BUCKET": "varun_balwani_s3"
+        "IMAGES_BUCKET": "varun-balwani-s3"
       },
       "event_source_arn": null,
       "event_source_mapping": [],
       "filename": null,
-      "function_name": "varun_balwani_hello_kitty",
+      "function_name": "varun-balwani-hello-kitty",
       "handler": "main.lambda_handler",
       "log_format": null,
       "log_group_name": "${module.appcd_86ec452a-770a-59bf-87dd-67ed883e25e5.name}",
@@ -39,7 +39,7 @@
     },
     "appcd_551e1d2b-88ec-5406-87cf-c51521bbe894": {
       "block_public_access": true,
-      "bucket_name": "varun_balwani_s3",
+      "bucket_name": "varun-balwani-s3",
       "bucket_policy": "",
       "enable_versioning": true,
       "enable_website_configuration": false,
